@@ -1,0 +1,16 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+lead: Azure NetApp Files is a Microsoft Azure native, high performance file storage service for your core business applications. This documentation describes how to set up and manage Azure NetApp Files by using NetApp BlueXP. 
+summary: Azure NetApp Files ist ein nativer Microsoft Azure-File-Storage-Service mit hoher Performance für Ihre wichtigsten Business-Applikationen. In dieser Dokumentation wird beschrieben, wie Sie Azure NetApp Files mithilfe von NetApp BlueXP einrichten und managen. 
+---
+= Azure NetApp Files-Dokumentation
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
