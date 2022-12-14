@@ -16,12 +16,14 @@ summary: Führen Sie diese Schritte schnell durch, oder scrollen Sie nach unten 
 [role="lead"]
 Führen Sie diese Schritte schnell durch, oder folgen Sie den Links, um weitere Informationen zu erhalten.
 
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Eins"] Richten Sie eine Azure AD-Applikation ein
 [role="quick-margin-para"]
 Von Azure erteilen Sie Berechtigungen für eine Azure AD-Applikation und kopieren Sie die Anwendungs-ID (Client), die Verzeichnis- (Mandanten-)ID und den Wert eines Clientgeheimnisses.
 
 [role="quick-margin-para"]
 link:task-set-up-azure-ad.html["Richten Sie eine Azure AD-Applikation ein"].
 
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Zwei"] Schaffung einer Azure NetApp Files-Arbeitsumgebung
 [role="quick-margin-para"]
 Klicken Sie in BlueXP auf *Arbeitsumgebung hinzufügen* > *Microsoft Azure* > *Azure NetApp Files* und geben Sie dann Details zur AD-Anwendung an.
 

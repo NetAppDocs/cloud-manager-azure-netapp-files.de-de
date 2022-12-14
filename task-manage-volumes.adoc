@@ -31,7 +31,7 @@ Nachdem Sie ein Volume erstellt haben, können Sie dessen Größe und Tags jeder
 
 
 
-== Ändern Sie den Servicelevel des Volumes
+== Ändern Sie den Service-Level des Volumes
 
 Nachdem Sie ein Volume erstellt haben, können Sie den Service Level jederzeit ändern, solange der Zielkapazitätspool bereits vorhanden ist.
 
@@ -42,6 +42,7 @@ Nachdem Sie ein Volume erstellt haben, können Sie den Service Level jederzeit �
 . Klicken Sie Auf *Ändern*.
 
 
+.Ergebnis
 Das Volume wird in den anderen Kapazitäts-Pool verschoben, ohne dass sich dies auf das Volume auswirkt.
 
 

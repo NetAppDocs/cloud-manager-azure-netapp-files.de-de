@@ -26,8 +26,10 @@ image:screenshot_anf_details.gif["Ein Screenshot der Felder, die zum Erstellen e
 . Klicken Sie Auf *Hinzufügen*.
 
 
+.Ergebnis
 Sie sollten nun über eine Azure NetApp Files-Arbeitsumgebung verfügen.
 
 image:screenshot_anf_we.gif["Ein Screenshot eines Azure NetApp Files Arbeitsumfelds."]
 
+.Was kommt als Nächstes?
 link:task-create-volumes.html["Beginnen Sie mit dem Erstellen und Managen von Volumes"].

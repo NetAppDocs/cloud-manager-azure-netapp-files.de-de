@@ -22,7 +22,7 @@ Nach der Einrichtung der Arbeitsumgebung können Sie Azure NetApp Files Konten, 
 
 NFS- oder SMB-Volumes können in einem neuen oder vorhandenen Azure NetApp Files-Konto erstellt werden.
 
-Mit der BlueXP Funktion „Templates“ können Sie Volumes erstellen, die für bestimmte Workloads, wie Datenbanken oder Streaming-Services, optimiert sind. Wenn Ihr Unternehmen Volume-Vorlagen erstellt hat, die Sie verwenden sollten, folgen Sie den Anweisungen  volumes from templates,Diesen Schritten ausführen.
+Mit der BlueXP Funktion „Templates“ können Sie Volumes erstellen, die für bestimmte Workloads, wie Datenbanken oder Streaming-Services, optimiert sind. Wenn Ihr Unternehmen Volume-Vorlagen erstellt hat, die Sie verwenden sollten, folgen Sie den Anweisungen <<Erstellen Sie Volumes aus Vorlagen,Diesen Schritten ausführen>>.
 
 .Bevor Sie beginnen
 * Wenn Sie SMB verwenden möchten, müssen Sie DNS und Active Directory eingerichtet haben.
@@ -65,9 +65,10 @@ image:screenshot_anf_smb.gif["Einen Screenshot der Felder, die zum Einrichten ei
 . Klicken Sie Auf *Volumen Hinzufügen*.
 
 
+.Ergebnis
 Das neue Volumen wird der Arbeitsumgebung hinzugefügt.
 
-Weiter mit  volumes,Montieren des Cloud Volumes.
+Weiter mit <<Volumes mounten,Montieren des Cloud Volumes>>.
 
 
 
@@ -96,10 +97,11 @@ image:screenshot_define_anf_vol_from_template.png["Ein Screenshot mit einer leer
 +
 *Hinweis:* Sie können das Kontrollkästchen *schreibgeschützte Parameter anzeigen* anklicken, um alle Felder anzuzeigen, die durch die Vorlage gesperrt wurden, wenn Sie die Werte für diese Parameter anzeigen möchten. Standardmäßig werden diese vordefinierten Felder ausgeblendet. Es werden nur die Felder angezeigt, die Sie ausfüllen müssen.
 
-. Fügen Sie Werte für alle Parameter hinzu, die nicht hartcodiert sind. Siehe  volumes,Volumes werden erstellt Sie finden Details zu allen Parametern, die Sie zur Implementierung eines Azure NetApp Files Volume abschließen müssen.
+. Fügen Sie Werte für alle Parameter hinzu, die nicht hartcodiert sind. Siehe <<Creating volumes,Volumes werden erstellt>> Sie finden Details zu allen Parametern, die Sie zur Implementierung eines Azure NetApp Files Volume abschließen müssen.
 . Klicken Sie auf *Ausführungsvorlage*, nachdem Sie alle für dieses Volume erforderlichen Parameter definiert haben.
 
 
+.Ergebnis
 BlueXP stellt das Volume bereit und zeigt eine Seite an, so dass Sie den Fortschritt sehen können.
 
 image:screenshot_template_creating_resource_anf.png["Ein Screenshot zeigt den Fortschritt der Erstellung Ihres neuen Volumes aus der Vorlage."]
